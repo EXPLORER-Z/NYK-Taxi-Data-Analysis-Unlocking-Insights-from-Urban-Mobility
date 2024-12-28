@@ -1,0 +1,2 @@
+# NYK-Taxi-Data-Analysis-Unlocking-Insights-from-Urban-Mobility
+This project focuses on analyzing NYC Yellow Taxi trip data to provide actionable insights into fleet management and demand prediction. Using a subset of the NYC taxi dataset, the analysis emphasizes peak hour demand patterns, identifies high-trip-density neighborhoods, and explores potential optimizations for reducing passenger wait times.
